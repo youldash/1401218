@@ -4,6 +4,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/youldash.svg?style=social?style=plastic)](https://twitter.com/youldash)
 
+*هياكل بيانات وخوارزميات*
+
 > Please note: This repo is a work in progress...
 
 ## Curriculum
